@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Chachia</h1>
 <h3 align="center">A passionate Software Engineering Student </h3>
 
-- 🌱 I’m currently learning **Docker , Kubernetes , Jenkins**
+- 🌱 I’m currently learning **Docker , Kubernetes , Jenkins , AWS**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mohamed-chachia](www.linkedin.com/in/mohamed-chachia)
 
