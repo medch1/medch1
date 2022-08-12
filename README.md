@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker , Kubernetes , Jenkins , AWS**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mohamed-chachia]
+- 📝 I regularly write articles on **https://medium.com/@chachia.mohamed**
 
 - 📫 How to reach me **chachia.mohamed@gmail.com**
 
